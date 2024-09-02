@@ -1,0 +1,26 @@
+.container{
+    border: 1px solid black;
+    height: 60px;
+}
+.row{
+    border: 1px solid black;
+    height: 60px;
+}
+.col-9{
+    border: 1px solid rgb(189, 38, 38);
+    height: 60px;
+}
+.col-4{
+    border: 1px solid rgb(57, 226, 15);
+    height: 60px;
+}
+.col-3{
+    border: 1px solid rgb(173, 42, 42);
+    height: 60px;
+}
+@media (max-width: 800px){
+    .item-container{
+        display: flex;
+        flex-direction: column;
+    }
+}

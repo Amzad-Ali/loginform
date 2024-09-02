@@ -1,0 +1,1 @@
+//Script URL is a form of eval.eslintno-script-url resolve this error?
